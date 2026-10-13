@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "parts": {
+    "0": {
+      "left": [
+        {
+          "url": "intro-colonne-gauche.mp4",
+          "name": "intro-colonne-gauche.mp4",
+          "video": true,
+          "seconds": 32
+        }
+      ],
+      "right": [
+        {
+          "url": "intro-colonne-droite.mp4",
+          "name": "intro-colonne-droite.mp4",
+          "video": true,
+          "seconds": 32
+        }
+      ]
+    },
+    "1": {
+      "left": [
+        {
+          "url": "le-monde-va-mal-compresse.mp4",
+          "name": "le-monde-va-mal-compresse.mp4",
+          "video": true,
+          "seconds": 33
+        }
+      ],
+      "right": [
+        {
+          "url": "partie-2-echec-gr-litt.mp4",
+          "name": "partie-2-echec-gr-litt.mp4",
+          "video": true,
+          "seconds": 33.6
+        }
+      ]
+    },
+    "2": {
+      "right": [
+        {
+          "url": "partie-3-amour-eloignement.mp4",
+          "name": "partie-3-amour-eloignement.mp4",
+          "video": true,
+          "seconds": 25
+        }
+      ],
+      "left": [
+        {
+          "url": "au-bout-du-jardin-25-sec-compresse.mp4",
+          "name": "au-bout-du-jardin-25-sec-compresse.mp4",
+          "video": true,
+          "seconds": 25
+        }
+      ]
+    },
+    "3": {
+      "left": [
+        {
+          "url": "musique-sans-bruits-compresse.mp4",
+          "name": "musique-sans-bruits-compresse.mp4",
+          "video": true,
+          "seconds": 25
+        }
+      ],
+      "right": [
+        {
+          "url": "EN l'amour mon salut.mp4",
+          "name": "EN l'amour mon salut.mp4",
+          "video": true,
+          "seconds": 25
+        }
+      ]
+    },
+    "4": {
+      "left": [
+        {
+          "url": "danse-pour-etre-seul-117bpm-25sec.mp4",
+          "name": "danse-pour-etre-seul-117bpm-25sec.mp4",
+          "video": true,
+          "seconds": 25
+        }
+      ],
+      "right": [
+        {
+          "url": "creation-desir-gr-litt.mp4",
+          "name": "creation-desir-gr-litt.mp4",
+          "video": true,
+          "seconds": 22
+        }
+      ]
+    }
+  }
+}
